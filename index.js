@@ -5,3 +5,5 @@ const city = 'New York';
 function sayhello() {
   console.log(`Hello, my name is ${name}, I am ${age} years old and I live in ${city}`);
 }
+
+sayhello();
