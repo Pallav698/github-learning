@@ -17,3 +17,7 @@ function showCity(){
 function newFteaureAdd(){
   console.log('This is a new feature added');
 }
+
+function newFeatureB(){
+  console.log('This is a new feature');
+}
