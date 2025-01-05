@@ -13,3 +13,7 @@ console.log('This is the index.js file');
 function showCity(){
   console.log(`I live in ${city}`);
 }
+
+function newFteaureAdd(){
+  console.log('This is a new feature added');
+}
