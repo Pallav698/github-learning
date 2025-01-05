@@ -21,3 +21,7 @@ function newFteaureAdd(){
 function newFeatureB(){
   console.log('This is a new feature');
 }
+
+function remoteBrach(){
+  console.log('This is a remote branch');
+}
